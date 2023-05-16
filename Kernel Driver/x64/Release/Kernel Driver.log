@@ -1,0 +1,10 @@
+﻿  Core.cpp
+  IO Header.cpp
+  P2V.cpp
+  Main.cpp
+  Utils.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture" (编译源文件 Utils\Utils.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture" (编译源文件 Main.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture" (编译源文件 IO Handler\IO Header.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture" (编译源文件 IO Handler\P2V.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\ntdef.h(197,1): fatal  error C1189: #error:  "No Target Architecture" (编译源文件 Core\Core.cpp)
